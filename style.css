@@ -1,0 +1,26 @@
+.heer{
+    font-size: 20px;
+    width: 100%;
+    margin: 0;
+    box-shadow: 5px 5px 5px lime;
+}
+.blah{
+    font-size: 15px;
+    color: black;
+}
+.foot{
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+    background-color: mediumturquoise;
+    color: blue;
+    font-size: 17px;
+}
+body{
+    background-color: black;
+}
+canvas{
+    border: 2px solid grey ;
+    border-radius:25px ;
+    box-shadow: 5px 5px 5px lightskyblue ;
+}
